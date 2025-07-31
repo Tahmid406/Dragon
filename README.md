@@ -1,6 +1,6 @@
 # 🐉 Dragon
 
-A simple interactive sketch simulating a dragon-like creature using steerable segments. The body segments follow the head with smooth motion, horns, glowing trails, and a touch of fantasy-inspired motion dynamics.
+A simple interactive sketch simulating a dragon-like creature using steerable segments. The body segments follow the head with smooth motion, a fantasy-inspired motion dynamics.
 
 ✨ Live Preview: [tahmid406.github.io/Dragon](https://tahmid406.github.io/Dragon/)
 
